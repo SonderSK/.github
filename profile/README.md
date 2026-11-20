@@ -32,7 +32,7 @@ Somos a mesma equipe na **Global Solution** e no **Challenge** da FIAP, os proje
       <img src="https://raw.githubusercontent.com/SonderSK/raiz/main/img/logo.svg" alt="Logo RAIZ" width="90">
     </td>
     <td>
-      <h3><a href="https://github.com/SonderSK/raiz">RAIZ</a> · CitizenTech</h3>
+      <h3><a href="https://github.com/SonderSK/raiz">RAIZ</a> · CitizenTech · Global Solution</h3>
       <em>Mais cuidado com a água. Mais força para cultivar.</em><br><br>
       Sensor de umidade do solo para pequenos produtores de folhosas do cinturão verde de São Paulo. Estima quantas horas faltam para o solo chegar no limite e devolve a decisão de irrigar ao produtor, sem depender de internet.<br><br>
       <a href="https://raiz-sonder.vercel.app">Site</a> ·
