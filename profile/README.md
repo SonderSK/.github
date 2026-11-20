@@ -11,7 +11,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/FIAP-Global%20Solution-28745a?style=for-the-badge" alt="FIAP Global Solution">
-  <img src="https://img.shields.io/badge/FIAP-Challenge-ed145b?style=for-the-badge" alt="FIAP Challenge">
+  <img src="https://img.shields.io/badge/FIAP-Challenge-f5c518?style=for-the-badge" alt="FIAP Challenge">
 </p>
 
 ---
@@ -74,24 +74,19 @@ Somos a mesma equipe na **Global Solution** e no **Challenge** da FIAP, os proje
 <table>
   <tr>
     <td align="center" width="20%">
-      <a href="https://github.com/zztrevisan"><img src="https://github.com/zztrevisan.png" width="90" alt="Guilherme Trevisan"><br><strong>Guilherme Trevisan</strong></a><br>
-      <sub>Requisitos e marca</sub>
+      <a href="https://github.com/zztrevisan"><img src="https://github.com/zztrevisan.png" width="90" alt="Guilherme Trevisan"><br><strong>Guilherme Trevisan</strong></a>
     </td>
     <td align="center" width="20%">
-      <a href="https://github.com/L1nguin3"><img src="https://github.com/L1nguin3.png" width="90" alt="João Victor Almeida"><br><strong>João Victor Almeida</strong></a><br>
-      <sub>Modelo e aplicativo</sub>
+      <a href="https://github.com/L1nguin3"><img src="https://github.com/L1nguin3.png" width="90" alt="João Victor Almeida"><br><strong>João Victor Almeida</strong></a>
     </td>
     <td align="center" width="20%">
-      <a href="https://github.com/lucas-dos-santos-gomes"><img src="https://github.com/lucas-dos-santos-gomes.png" width="90" alt="Lucas Gomes"><br><strong>Lucas Gomes</strong></a><br>
-      <sub>Interface e previsão</sub>
+      <a href="https://github.com/lucas-dos-santos-gomes"><img src="https://github.com/lucas-dos-santos-gomes.png" width="90" alt="Lucas Gomes"><br><strong>Lucas Gomes</strong></a>
     </td>
     <td align="center" width="20%">
-      <a href="https://github.com/davidm-dk"><img src="https://github.com/davidm-dk.png" width="90" alt="David Pereira"><br><strong>David Pereira</strong></a><br>
-      <sub>Interação</sub>
+      <a href="https://github.com/davidm-dk"><img src="https://github.com/davidm-dk.png" width="90" alt="David Pereira"><br><strong>David Pereira</strong></a>
     </td>
     <td align="center" width="20%">
-      <a href="https://github.com/SalesTbs"><img src="https://github.com/SalesTbs.png" width="90" alt="Thales Seixas"><br><strong>Thales Seixas</strong></a><br>
-      <sub>Sensor e hardware</sub>
+      <a href="https://github.com/SalesTbs"><img src="https://github.com/SalesTbs.png" width="90" alt="Thales Seixas"><br><strong>Thales Seixas</strong></a>
     </td>
   </tr>
 </table>
@@ -99,5 +94,6 @@ Somos a mesma equipe na **Global Solution** e no **Challenge** da FIAP, os proje
 ---
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/SonderSK/.github/main/profile/fiap.png" alt="FIAP" width="160"><br><br>
   <sub>SonderK · Engenharia de Software · FIAP · São Paulo, Brasil</sub>
 </p>
