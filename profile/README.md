@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FIAP-Global%20Solution%202026-ed145b?style=for-the-badge" alt="FIAP Global Solution 2026">
+  <img src="https://img.shields.io/badge/FIAP-Global%20Solution-28745a?style=for-the-badge" alt="FIAP Global Solution">
   <img src="https://img.shields.io/badge/FIAP-Challenge-ed145b?style=for-the-badge" alt="FIAP Challenge">
 </p>
 
