@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FIAP-Global%20Solution-28745a?style=for-the-badge" alt="FIAP Global Solution">
-  <img src="https://img.shields.io/badge/FIAP-Challenge-f5c518?style=for-the-badge" alt="FIAP Challenge">
+  <img src="https://img.shields.io/badge/FIAP-Global%20Solution-28745a?style=for-the-badge&labelColor=ed145b" alt="FIAP Global Solution">
+  <img src="https://img.shields.io/badge/FIAP-Challenge-f5c518?style=for-the-badge&labelColor=ed145b" alt="FIAP Challenge">
 </p>
 
 ---
