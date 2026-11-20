@@ -10,8 +10,6 @@
 </p>
 
 <p align="center">
-  <a href="https://raiz-sonder.vercel.app"><img src="https://img.shields.io/badge/RAIZ-site-28745a?style=for-the-badge" alt="Site do RAIZ"></a>
-  <a href="https://raiz-sonder-app.vercel.app"><img src="https://img.shields.io/badge/RAIZ-app-173f35?style=for-the-badge" alt="App do RAIZ"></a>
   <img src="https://img.shields.io/badge/FIAP-Global%20Solution%202026-ed145b?style=for-the-badge" alt="FIAP Global Solution 2026">
   <img src="https://img.shields.io/badge/FIAP-Challenge-ed145b?style=for-the-badge" alt="FIAP Challenge">
 </p>
@@ -23,13 +21,6 @@
 A **SonderK** é o grupo formado por cinco estudantes de Engenharia de Software da FIAP. A gente parte de problemas locais e reais, conversa com quem vive o problema e constrói tecnologia que funciona para essa pessoa, mesmo sem internet, mesmo para quem não lê com facilidade.
 
 Somos a mesma equipe na **Global Solution** e no **Challenge** da FIAP, os projetos em que resolvemos desafios reais propostos por empresas parceiras e apresentamos as soluções para o mercado.
-
-**Como a gente trabalha**
-
-- **Acessibilidade primeiro.** A mesma informação chega por mais de um caminho: tela, voz, ícone e gente de verdade.
-- **Simples de usar, sólido por dentro.** Número grande e uma palavra só na frente; modelo, dados e testes por trás.
-- **Offline quando precisa.** Internet é opcional, nunca requisito.
-- **Decisão continua com a pessoa.** A tecnologia dá o número; quem decide é o usuário.
 
 ---
 
