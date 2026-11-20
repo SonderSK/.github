@@ -95,5 +95,5 @@ Somos a mesma equipe na **Global Solution** e no **Challenge** da FIAP, os proje
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/SonderSK/.github/main/profile/fiap.png" alt="FIAP" width="160"><br><br>
-  <sub>SonderK · Engenharia de Software · FIAP · São Paulo, Brasil</sub>
+  <sub>SonderK · Engenharia de Software · São Paulo, Brasil</sub>
 </p>
